@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'rest-client'
   s.add_dependency 'activesupport', '>= 2.3'
   s.add_dependency 'i18n'
+  s.add_dependency 'json'
   s.add_development_dependency 'rake', '>= 0.8'
   s.add_development_dependency 'rspec', '>= 2'
   s.add_development_dependency 'fakeweb', '>= 1.3.0'
